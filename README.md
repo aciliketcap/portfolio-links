@@ -1,6 +1,6 @@
 ### Tools / Howtos that can be useful for other people:
 - [scraper-and-analyser](): COMING SOON! My tools for web scraping, extracting relevant data and then running analyses. I use it primarily for job search however it can be used in any use case which involves running searches on multiple websites and analysing results.
-- [mitmproxy to sniff apps on your PC]: A very old article which doesn't read too well 😅Basically you need another computer / VM / container to MITM HTTPS communication created by processes running on your Linux box. (You also need the certs obviously 😁.) However you can use `cgroups` directly which is arguably more straight-forward. Mainly useful for testing network related software.
+- [mitmproxy to sniff apps on your PC](https://medium.com/@aciliketcap/using-cgroups-and-mitmproxy-to-listen-to-traffic-on-your-computer-in-a-transparent-proxy-scenario-668f36cba2dd): A very old article which doesn't read too well 😅Basically you need another computer / VM / container to MITM HTTPS communication created by processes running on your Linux box. (You also need the certs obviously 😁.) However you can use `cgroups` directly which is arguably more straight-forward. Mainly useful for testing network related software.
 - [cv-template](https://github.com/aciliketcap/cv-template): CV-as-code written in TeX. I find it easier to manage multiple versions of a doc at the same time in Git.
 ### Various code assignments from old interviews
 I change the premise a little bit in most cases so that they're not exactly the same.
